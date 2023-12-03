@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionManager xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+    <string name="app_name">Questionnaire</string>
+    <string name="get_the_average">Obtenez la moyenne</string>
+    <string name="select_the_number_of_questions">Sélectionnez le nombre de questions</string>
+    <string name="reset_the_saved_result">Réinitialiser le résultat enregistré</string>
+    <string name="tr">Vrai</string>
+    <string name="fl">Faux</string>
+</transitionManager>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="get_the_average">Get the Average</string>
+    <string name="select_the_number_of_questions">Select the Number Of Questions</string>
+    <string name="reset_the_saved_result">Reset the saved Result</string>
+    <string name="tr">True</string>
+    <string name="fl">False</string>
+
+</resources>
